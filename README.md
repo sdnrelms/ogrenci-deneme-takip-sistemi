@@ -227,5 +227,5 @@ CREATE TABLE exams (
 
 ## 🎥 Demo Videosu
 
-👉 [Demo videosu için tıklayınız]()
+👉 [Demo videosu için tıklayınız](https://youtu.be/aWMO6WASMFw)
 
