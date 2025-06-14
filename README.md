@@ -8,7 +8,7 @@ Kullanıcılar sınav sonuçlarını sisteme girerek grafiksel analizler ile gel
 - Kullanıcı Yönetimi: 
     - Güvenli kullanıcı kaydı
 
-    - E-posta ve şifre ile giriş
+    - Kullanıcı adı/E-posta ve şifre ile giriş
 
     - Oturum yönetimi (giriş/çıkış)
 
@@ -125,8 +125,8 @@ ogrenci_deneme_takip_sistemi/
 
     <table>
     <tr>
-    <td><img src="img/register.png" alt="register.php" width="600"></td>
-    <td><img src="img/login.png" alt="login.php" width="600"></td>
+    <td><img src="img/register.png" alt="register.php" width="700"></td>
+    <td><img src="img/login.png" alt="login.php" width="700"></td>
     </tr>
     </table>
 
@@ -152,8 +152,8 @@ ogrenci_deneme_takip_sistemi/
 
     <table>
     <tr>
-    <td><img src="img/add_exam.png" alt="add_exam.php" width="600"></td>
-    <td><img src="img/edit_exam.png" alt="edit_exam.php" width="600"></td>
+    <td><img src="img/add_exam.png" alt="add_exam.php" width="700"></td>
+    <td><img src="img/edit_exam.png" alt="edit_exam.php" width="700"></td>
     </tr>
     </table>
 
@@ -165,8 +165,8 @@ ogrenci_deneme_takip_sistemi/
 
     <table>
     <tr>
-    <td><img src="img/list_exams.png" alt="list_exams.php" width="600"></td>
-    <td><img src="img/view_exam.png" alt="view_exam.php" width="600"></td>
+    <td><img src="img/list_exams.png" alt="list_exams.php" width="700"></td>
+    <td><img src="img/view_exam.png" alt="view_exam.php" width="700"></td>
     </tr>
     </table>
 
