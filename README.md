@@ -112,7 +112,7 @@ ogrenci_deneme_takip_sistemi/
 
 1. Karşılama Ekranı
 
-    - Uygulama başlatıldığında sistemi anlatan sayfa görülür.
+    - Siteye girildiğinde bizi ilk olarak sistemi anlatan sayfa karşılar.
     <table>
     <tr>
     <td><img src="img/index.png" alt="index.php" width="600"></td>
