@@ -112,14 +112,14 @@ ogrenci_deneme_takip_sistemi/
 
 1. Karşılama Ekranı
 
-    - Siteye girildiğinde bizi ilk olarak sistemi anlatan sayfa karşılar.
+    - Siteye girildiğinde ilk olarak sistemi anlatan sayfa görülür.
     <table>
     <tr>
     <td><img src="img/index.png" alt="index.php" width="600"></td>
     </tr>
     </table>
 
-1. Kayıt Olma / Giriş Yapma:
+2. Kayıt Olma / Giriş Yapma:
 
     - Kayıt olabilir ya da hesabınız varsa direkt giriş yapabilirsiniz.
 
@@ -142,7 +142,7 @@ ogrenci_deneme_takip_sistemi/
     </table>
 
 
-2. Sınav Ekleme ve Silme:
+4. Sınav Ekleme ve Silme:
 
     - "Sınav Ekle" sayfasından yeni sınav sonuçlarınızı girebilirsiniz.
 
@@ -157,7 +157,7 @@ ogrenci_deneme_takip_sistemi/
     </tr>
     </table>
 
-3. Sınavları Görüntüleme:
+5. Sınavları Görüntüleme:
 
     - "Sınavlarım" sayfasından tüm sınavlarınızı listeleyebilirsiniz.
 
@@ -171,7 +171,7 @@ ogrenci_deneme_takip_sistemi/
     </table>
 
 
-4. Analizler:
+6. Analizler:
 
     - Dashboard'da son 5 sınavın grafiğini görüntüleyebilirsiniz.
 
