@@ -144,7 +144,7 @@ ogrenci_deneme_takip_sistemi/
     </table>
 
 
-4. Sınav Ekleme ve Silme:
+4. Sınav Ekleme, Düzenleme ve Silme:
 
     - "Sınav Ekle" sayfasından yeni sınav sonuçlarınızı girebilirsiniz.
 
