@@ -4,6 +4,8 @@
 
 Kullanıcılar sınav sonuçlarını sisteme girerek grafiksel analizler ile gelişimlerini takip edebilir, ders bazında net ortalamalarını görüntüleyebilir.
 
+Web Tabanlı Programlama dersi kapsamında dönem projesi olarak hazırlanmıştır.
+
 ## 🎯 Özellikler
 - Kullanıcı Yönetimi: 
     - Güvenli kullanıcı kaydı
